@@ -1,1 +1,2 @@
 resolvendo conflito +6
+++3+3
